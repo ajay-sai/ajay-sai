@@ -125,8 +125,29 @@ I'm currently focused on building multi-agent systems using langgraph, autogen, 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-sai&show_icons=true&theme=radical)
+### 📊 GitHub Statistics
 
-<!--
-**ajay-sai/ajay-sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-sai&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-sai&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay-sai&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajay-sai&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+### 📈 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/ajay-sai/ajay-sai/blob/output/github-contribution-grid-snake.svg)
+
+---
