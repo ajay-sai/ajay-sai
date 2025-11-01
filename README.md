@@ -224,6 +224,8 @@ _Technologies: RStudio, Machine Learning, SQL, Predictive Analysis, Visualizatio
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
+1.  Assigned issue [#1](https://github.com/ajay-sai/RAG/issues/1) in [ajay-sai/RAG](https://github.com/ajay-sai/RAG)
+2. ❗ Opened issue [#1](https://github.com/ajay-sai/RAG/issues/1) in [ajay-sai/RAG](https://github.com/ajay-sai/RAG)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Graph
