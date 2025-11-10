@@ -88,12 +88,25 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 
 ### 📜 Certifications
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 #### Google Cloud Certifications
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 - [Professional Cloud Database Engineer](https://www.credly.com/badges/18f8026b-1a09-40f7-b85d-9a12babf6821/public_url) 
 - [Professional Data Engineer](https://www.credly.com/badges/a607b05c-e072-479e-987e-06d3fe1420b4/linked_in_profile)
 - [Generative AI Leader](https://www.credly.com/badges/53d8c480-838f-4965-b54b-84fa5e6ab086/linked_in_profile)
 - [Associate Data Practitioner](https://www.credly.com/badges/d8d681f9-aaa5-408b-89e5-8130cbd3afac/linked_in_profile)
+
+#### Additional Certifications
+![Certifications](https://img.shields.io/badge/Certifications-FF0000?style=for-the-badge&logo=acclaim&logoColor=white)
+- Google Ads Professional
+- Certified Data Scientist (Data Camp)
+- Certified Data Analyst in Python (Edureka)
+
+</td>
+<td width="50%" valign="top">
 
 #### AI & ML Specializations
 ![DeepLearning](https://img.shields.io/badge/DeepLearning.AI-4B4B4B?style=for-the-badge&logo=deeplearning-ai&logoColor=white)
@@ -103,15 +116,13 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 - [Practical Multi AI Agents and Advanced Use Cases](https://learn.deeplearning.ai/accomplishments/72c1d364-7a7a-4802-9506-f5c4bb350562)
 - [Build a Chat Application using PaLM 2 API](https://www.coursera.org/account/accomplishments/verify/W4PPZVDKQ04N)
 
-#### Additional Certifications
-![Certifications](https://img.shields.io/badge/Certifications-FF0000?style=for-the-badge&logo=acclaim&logoColor=white)
-- Google Ads Professional
-- Certified Data Scientist (Data Camp)
-- Certified Data Analyst in Python (Edureka)
-
 #### 🏆 Profile Badges
 [![Credly Profile](https://img.shields.io/badge/Credly_Profile-orange?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/ajay-miryala.e0f4cc9b)
 [![Google Cloud Profile](https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/profile/badges)
+
+</td>
+</tr>
+</table>
 
 ---
 
