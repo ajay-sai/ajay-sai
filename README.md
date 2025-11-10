@@ -5,18 +5,13 @@
   <a href="mailto:sai.ajaysai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </div>
 
-## <div align="center">Data Expert | AI Solutions Architect | Decision Analyst</div>
+## <div align="center">Lead AI Data Scientist | Gen AI / ML Engineer | Decision Analyst</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Data Expert with over 8 years of experience in retail, e-commerce, and supply chain sectors. Proven track record of leveraging data analysis, machine learning, and big data 
-technologies to drive business growth and enhance customer experience. Expert in architecting scalable AI solutions, integrating multi-modal models, and optimizing data 
-pipelines and building effective real time visualizations. Strong leadership and communication skills with the ability to translate complex problems into actionable insights, 
-influencing both technical teams and senior leadership.
-
-I'm currently focused on building multi-agent systems using langgraph, autogen, ag2, pydanticai, crewai, and Google Agent SDK.
+Lead AI Data Scientist with 8+ years of experience designing and deploying robust, production-grade data ecosystems. I specialize in building the full-stack infrastructure that powers modern AI: architecting scalable ETL and analytics platforms (BigQuery, GCP), operationalizing LLMs and multimodal systems (RAG, Vision+LLM), and implementing MLOps/CI-CD for model lifecycle management. I focus on creating resilient, efficient, and scalable solutions that serve enterprise-level data science and analytics. I'm currently focused on building multi-agent systems using langgraph, autogen, ag2, pydanticai, crewai, and Google Agent SDK.
 
 ---
 
@@ -68,15 +63,26 @@ I'm currently focused on building multi-agent systems using langgraph, autogen, 
 
 ### 💼 Professional Experience
 
-#### 🏢 Senior Decision Analyst | The Home Depot Management Company | Jun 2023 – Present
-* Architected a robust, scalable dynamic image generation pipeline utilizing state-of-the-art vision models (Google Image Gen-3, Stable Diffusion) and advanced text generation models (Gemini-1.5 Pro, Text-Bison-32k), transforming Home Depot's guided search with enhanced visual relevance and accuracy.
-* Integrated multiple AI models, including multi-modal and text embeddings (Text-embedding-004, Gecko@002), to automate image-keyword alignment, optimizing search coherence and improving product discovery across Home Depot's platform.
+#### 🏢 Gen AI / ML Engineer, The Home Depot Management Company | Jan 2025 – Present
+- Designed and developed scalable generative AI systems using transformer-based architectures (GPT-4, BERT, Gemini, Longformer) for text summarization, Q&A bots, and contract parsing.
+- Led fine-tuning of LLMs with LoRA, QLoRA, and PEFT methods using HuggingFace Transformers to improve model alignment with Home Depot-specific customer and vendor datasets.
+- Built and deployed image-to-text pipelines integrating Stable Diffusion and Vision Transformers for intelligent product tagging and visual search enhancements.
+- Created custom prompt optimization frameworks and integrated GenAI tooling for internal analytics automation, reducing turnaround time by 55%.
+- Implemented RLHF to train chat-based support agents and automated documentation tools, increasing task resolution accuracy by 38%.
+- Established MLOps pipelines with TensorFlow Extended (TFX), Vertex AI Pipelines, and MLflow for model versioning, validation, and deployment in staging and production environments.
+- Partnered with engineering, product, and marketing teams to align model outcomes with business KPIs through dashboards and experiment tracking.
+- Developed a modular GenAI microservice architecture on GCP using Docker, Cloud Run, and Firestore to power multiple realtime analytics and automations.
+- Published internal technical documentation and model cards to guide ethics review, reuse, and reliability tracking for all deployed GenAI solutions.
+
+#### 🏢 Senior Data Scientist - Decision Analytics | The Home Depot Management Company | Jun 2023 – Jan 2025
+* Architected a robust, scalable dynamic image generation pipeline utilizing state-of-the-art vision models (Google Image Gen3, Stable Diffusion) and advanced text generation models (Gemini-1.5 Pro, Text-Bison-32k), transforming Home Depot’s guided search with enhanced visual relevance and accuracy.
+* Integrated multiple AI models, including multi-modal and text embeddings (Text-embedding-004, Gecko@002), to automate image-keyword alignment, optimizing search coherence and improving product discovery across Home Depot’s platform.
 * Deployed LLM-powered automation for end-to-end process reporting, delivering scalable, on-demand PDF documentation with code explanations for technical and non-technical stakeholders, cutting manual reporting effort by 60%.
 * Developed predictive models including image classification, object detection, and house renovation score prediction using Res-Net and Vision Transformers on MLS listing images provided by CoreLogic, achieving an accuracy of 87% and aiming to save $20 million in marketing budget.
 * Led a team of 4 offshore resources (TCS) to optimize ETL workflows and develop ETL scripts in Analytical Workbench and Big Query, integrating data (~50TB) from 15 disparate sources (clickstream, orders, marketing data), resulting in a 40% increase in data processing.
 * Built OLAP data cubes and architected databases, data warehouses to support Tableau Dashboards (SAIM Deck) and advanced data analysis, leveraging SQL optimization, clustering, partitioning, stored procedures, and functions on Google Cloud Big Query.
 * Partnered with the Data Engineering team to migrate 25+ workflows from AWB Workbench to Google Data form, targeting significant process efficiencies by automating Big Query SQL workflows, dependency management, and job scheduling—expected to cut project timelines by 30-50% upon completion.
-* Advancing data pipeline reliability and scalability through Data form's integrated testing, GIT version control, and optimized SQL transformations, with anticipated benefits of a 50% reduction in data error rates and enhanced handling of large datasets for improved operational efficiency.
+* Advancing data pipeline reliability and scalability through Data form’s integrated testing, GIT version control, and optimized SQL transformations, with anticipated benefits of a 50% reduction in data error rates and enhanced handling of large datasets for improved operational efficiency.
 * Empowered BACE (Brand Advocates and CEX) partners with advanced analytics tools, enabling real-time monitoring and post-event analysis during critical events such as Black Friday and Cyber Monday to track key metrics, improving strategic decision-making for various projects to enhance customer experience.
 * Created data standards and implemented new methods of capturing tagging information in Adobe Analytics Tag Manager by working with the Adobe Analytics team (AAPES team) to gain new analytical insights on customer interaction across all Home Depot online platforms.
 * Enabled 5 internal organizations to devise strategies for performing full category refreshes across all Home Depot online platforms to maintain and improve foundational stability of online categories (display taxonomy) and perform full-funnel analysis and optimization.
@@ -139,10 +145,22 @@ _Coursework: Web Technology, Software Engineering, Pervasive computing, Operatin
 ---
 
 ### 📜 Certifications
-- Google Professional Data Engineer (Google)
+- Professional Cloud Database Engineer (Issued by Google Cloud) - https://www.credly.com/badges/18f8026b-1a09-40f7-b85d-9a12babf6821/public_url
+- Professional Data Engineer (Issued by Google Cloud) - https://www.credly.com/badges/a607b05c-e072-479e-987e-06d3fe1420b4/linked_in_profile
+- Generative AI Leader (Issued by Google Cloud) - https://www.credly.com/badges/53d8c480-838f-4965-b54b-84fa5e6ab086/linked_in_profile
+- Associate Data Practitioner (Issued by Google Cloud) - https://www.credly.com/badges/d8d681f9-aaa5-408b-89e5-8130cbd3afac/linked_in_profile
+- AI Agents in LangGraph - https://learn.deeplearning.ai/accomplishments/8047cd5c-e51c-44bc-bd08-be3ee35b83d0?usp=sharing
+- AI Agentic Design Patterns with AutoGen - https://learn.deeplearning.ai/accomplishments/37be9c85-fce0-4f3c-8c2a-ec6e93dba837
+- Multi AI Agent Systems with crewAI - https://learn.deeplearning.ai/accomplishments/ede2fb1b-3e88-4ca2-9403-cec2be61468b
+- Practical Multi AI Agents and Advanced Use Cases with crewAI - https://learn.deeplearning.ai/accomplishments/72c1d364-7a7a-4802-9506-f5c4bb350562
+- Build a Chat Application using the PaLM 2 API on Cloud Run - https://www.coursera.org/account/accomplishments/verify/W4PPZVDKQ04N
 - Google Ads Professional (Google)
 - Certified Data Scientist (Data Camp)
 - Certified Data Analyst in Python (Edureka)
+
+Public profiles:
+- Credly: https://www.credly.com/users/ajay-miryala.e0f4cc9b
+- Google Cloud Skills Boost badges: https://www.skills.google/profile/badges
 
 ---
 
