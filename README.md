@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ajay-sai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="https://ajaymiryala.com/" target="_blank"><img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
   <a href="mailto:sai.ajaysai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </div>
 
@@ -11,78 +12,88 @@
 
 ### 👨‍💻 About Me
 
-Lead AI Data Scientist with 8+ years of experience designing and deploying robust, production-grade data ecosystems. I specialize in building the full-stack infrastructure that powers modern AI: architecting scalable ETL and analytics platforms (BigQuery, GCP), operationalizing LLMs and multimodal systems (RAG, Vision+LLM), and implementing MLOps/CI-CD for model lifecycle management. I focus on creating resilient, efficient, and scalable solutions that serve enterprise-level data science and analytics. I'm currently focused on building multi-agent systems using langgraph, autogen, ag2, pydanticai, crewai, and Google Agent SDK.
+I am a Lead AI Data Scientist with over 8 years of experience, specializing in building the full-stack, production-grade infrastructure that powers modern AI. My focus is on creating resilient, efficient, and scalable data ecosystems, from architecting ETL pipelines on GCP to operationalizing the entire lifecycle of Generative AI models, including RAG and multi-agent systems.
+
+---
+
+### 🚀 Career Highlights
+
+- 🧠 Architected and deployed multi-LLM orchestration (Gemini 1.5 Pro/Flash, Llama) and Neo4j Knowledge-Graph RAG assistants for over 200 analysts.
+- 📈 Delivered multimodal AI prototypes (text + vision) and LLM-powered executive reporting, cutting manual reporting efforts by 60%.
+- 🛠️ Led the fine-tuning of LLMs using LoRA, QLoRA, and PEFT, and established robust MLOps pipelines with Vertex AI and MLflow.
+- 🏗️ Engineered a 40% increase in data processing efficiency by optimizing ETL workflows and integrating over 50TB of data from 15+ disparate sources.
+- 🤖 Currently focused on building advanced multi-agent systems with LangGraph, AutoGen, CrewAI, and the Google Agent SDK.
 
 ---
 
 ### 🔧 Tech Stack
 
 #### AI/ML & GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logo=llama&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-BD7BB7?style=for-the-badge&logo=jax&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white "PyTorch")
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white "TensorFlow")
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black "Hugging Face")
+![LangChain](https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white "LangChain")
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white "OpenAI")
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge&logo=llama&logoColor=white "LlamaIndex")
+![JAX](https://img.shields.io/badge/JAX-BD7BB7?style=for-the-badge&logo=jax&logoColor=white "JAX")
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white "ONNX")
 
 #### Languages & Core Libraries
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spacy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python")
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white "R")
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white "SQL")
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white "Pandas")
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white "NumPy")
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white "Scikit-learn")
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white "Matplotlib")
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white "Plotly")
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white "NLTK")
+![Spacy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white "Spacy")
 
 #### MLOps & Development
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white "MLflow")
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker")
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white "Kubernetes")
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white "FastAPI")
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white "Ray")
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white "DVC")
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white "GitLab CI")
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white "Streamlit")
 
 #### Cloud & Big Data
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "GCP")
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Vertex AI")
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white "BigQuery")
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Dataflow")
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Cloud Run")
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white "S3")
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white "Apache Spark")
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")
 
 #### AI Agents & Tools
-![Microsoft AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Agent SDK](https://img.shields.io/badge/Agent_SDK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![AgentGPT](https://img.shields.io/badge/AgentGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white "Microsoft AutoGen")
+![LangGraph](https://img.shields.io/badge/LangGraph-3776AB?style=for-the-badge&logo=python&logoColor=white "LangGraph")
+![CrewAI](https://img.shields.io/badge/CrewAI-3776AB?style=for-the-badge&logo=python&logoColor=white "CrewAI")
+![Google Agent SDK](https://img.shields.io/badge/Agent_SDK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Google Agent SDK")
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white "Pydantic")
+![AgentGPT](https://img.shields.io/badge/AgentGPT-000000?style=for-the-badge&logo=openai&logoColor=white "AgentGPT")
 
 #### Analytics & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white "Tableau")
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black "Power BI")
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white "Google Analytics")
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black "Weights & Biases")
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white "TensorBoard")
 
 #### ETL & Other Tools
-![Analytics Workbench](https://img.shields.io/badge/Analytics_Workbench-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-3776AB?style=for-the-badge&logo=alteryx&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Analytics Workbench](https://img.shields.io/badge/Analytics_Workbench-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Analytics Workbench")
+![Alteryx](https://img.shields.io/badge/Alteryx-3776AB?style=for-the-badge&logo=alteryx&logoColor=white "Alteryx")
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub")
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white "Excel VBA")
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white "Microsoft SQL Server")
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white "Shell Scripting")
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white "SAP")
 
 ---
 
@@ -128,7 +139,9 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 
 ### 💼 Professional Experience
 
-#### 🏢 Gen AI / ML Engineer, The Home Depot Management Company | Jan 2025 – Present
+<details>
+<summary><strong>🏢 Gen AI / ML Engineer, The Home Depot Management Company | Jan 2025 – Present</strong></summary>
+
 - Designed and developed scalable generative AI systems using transformer-based architectures (GPT-4, BERT, Gemini, Longformer) for text summarization, Q&A bots, and contract parsing.
 - Led fine-tuning of LLMs with LoRA, QLoRA, and PEFT methods using HuggingFace Transformers to improve model alignment with Home Depot-specific customer and vendor datasets.
 - Built and deployed image-to-text pipelines integrating Stable Diffusion and Vision Transformers for intelligent product tagging and visual search enhancements.
@@ -138,8 +151,11 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 - Partnered with engineering, product, and marketing teams to align model outcomes with business KPIs through dashboards and experiment tracking.
 - Developed a modular GenAI microservice architecture on GCP using Docker, Cloud Run, and Firestore to power multiple realtime analytics and automations.
 - Published internal technical documentation and model cards to guide ethics review, reuse, and reliability tracking for all deployed GenAI solutions.
+</details>
 
-#### 🏢 Senior Data Scientist - Decision Analytics | The Home Depot Management Company | Jun 2023 – Jan 2025
+<details>
+<summary><strong>🏢 Senior Data Scientist - Decision Analytics | The Home Depot Management Company | Jun 2023 – Jan 2025</strong></summary>
+
 * Architected a robust, scalable dynamic image generation pipeline utilizing state-of-the-art vision models (Google Image Gen3, Stable Diffusion) and advanced text generation models (Gemini-1.5 Pro, Text-Bison-32k), transforming Home Depot’s guided search with enhanced visual relevance and accuracy.
 * Integrated multiple AI models, including multi-modal and text embeddings (Text-embedding-004, Gecko@002), to automate image-keyword alignment, optimizing search coherence and improving product discovery across Home Depot’s platform.
 * Deployed LLM-powered automation for end-to-end process reporting, delivering scalable, on-demand PDF documentation with code explanations for technical and non-technical stakeholders, cutting manual reporting effort by 60%.
@@ -151,8 +167,11 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 * Empowered BACE (Brand Advocates and CEX) partners with advanced analytics tools, enabling real-time monitoring and post-event analysis during critical events such as Black Friday and Cyber Monday to track key metrics, improving strategic decision-making for various projects to enhance customer experience.
 * Created data standards and implemented new methods of capturing tagging information in Adobe Analytics Tag Manager by working with the Adobe Analytics team (AAPES team) to gain new analytical insights on customer interaction across all Home Depot online platforms.
 * Enabled 5 internal organizations to devise strategies for performing full category refreshes across all Home Depot online platforms to maintain and improve foundational stability of online categories (display taxonomy) and perform full-funnel analysis and optimization.
+</details>
 
-#### 🏢 Senior Data Analyst | The Home Depot Management Company | March 2022 – Jun 2023
+<details>
+<summary><strong>🏢 Senior Data Analyst | The Home Depot Management Company | March 2022 – Jun 2023</strong></summary>
+
 * Analyzed customer behavior across Home Depot platforms to provide key insights to the Category Experience team (CEX) and Brand Advocate Team (BA) with over 300 associates by providing ad-hoc data, standardized real-time reporting, and offering business recommendations for senior executives.
 * Enhanced the full-funnel customer experience by providing insights into online Category Pages, Product Listing Pages (PLP), and Product Information Pages (PIP).
 * Constructed analytical dashboards using visualization tools like Tableau and Google Data Studio. Leveraged job orchestration tools such as Analytical Workbench and performed data manipulation using Big Query and Python (~70 hours/month).
@@ -160,8 +179,11 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 * Led a team of 7 in the Voice of Associates (VOA) initiative, leveraging the Liftoff platform to streamline data science onboarding, reducing onboarding time by 20% and increasing satisfaction by 10% through department-specific insights shared with senior leadership.
 * Acted as an Adobe Analytics Workspace SME, leading weekly Adobe Analytics Office Hours to provide live training and creating training resources and best practices.
 * Fostered cross-functional partnerships, mentored junior analysts, delivered technical training and spearheaded various project initiatives.
+</details>
 
-#### 🏢 Data Analyst and Engineer | Harley Davidson Motor Company | Feb 2020 – March 2022
+<details>
+<summary><strong>🏢 Data Analyst and Engineer | Harley Davidson Motor Company | Feb 2020 – March 2022</strong></summary>
+
 * Performed in-depth analysis of general merchandise data to identify opportunities and develop proposals and recommendations for use by management.
 * Designed, prepared, and manipulated data using Business Intelligence tools—Tableau, Power BI, and SAP Analytics Cloud—to identify user behavior and analyze trends and patterns, both independently and in collaboration with product managers and data modeling resources.
 * Extracted, cleaned, and analyzed multiple data sources, and built optimized data models and ETL pipelines to support dashboard requirements using SQL and Alteryx, which improved the performance of existing reporting dashboards in SAP Analytics Cloud and helped reduce data processing time by 80%.
@@ -169,31 +191,44 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 * Maintained the master dataset of the General Merchandise department and performed batch inserting/updating of accounts, product information, lead times, BOM, dealer information, and other objects in SAP using FLEX PLM.
 * Worked with the Supply Chain Analyst and warehouse coordinators to perform error analysis on EDI transactions (IDoc Resolution), providing recommendations and analyzing all error data established for new product builds and launches, compiling and communicating weekly metrics to leadership.
 * Led multiple rounds of User Acceptance Testing (UAT) by identifying appropriate stakeholders and building test scripts for each to execute.
+</details>
 
-#### 🏢 Marketing Analyst | Anahata Art and Design Pvt | May 2019 – Dec 2019
+<details>
+<summary><strong>🏢 Marketing Analyst | Anahata Art and Design Pvt | May 2019 – Dec 2019</strong></summary>
+
 * Created, maintained, and managed a 3-week Google Ads Campaign with a total budget of $300 for an online gifting startup in India to understand their business, market competitors, popular selling products, and target audience.
 * Managed to make 110 ad copies with 6,000 keywords, minimized cost-per-click to $0.11, achieved a 200% increase in website traffic (92% new Users/week), achieved 113 sales of products with $3100 in revenue, and improved the landing page experience.
 * Proposed multiple recommendations for the potential new markets, product updates, and marketing campaign changes to the client after analyzing visits, page views, purchases, revenue, and conversion metrics from multiple data sources (web analytics data as well as external data).
+</details>
 
-#### 🏢 Data Scientist | Principal Financial Group | Aug 2019 – Dec 2019
+<details>
+<summary><strong>🏢 Data Scientist | Principal Financial Group | Aug 2019 – Dec 2019</strong></summary>
+
 * Devised the KPI's and predicted market regime of companies from Russell 1000 to evaluate prospective investments for the client.
 * Performed data aggregation on 5.5 million rows of data using SQL aggregation techniques.
 * Implemented data cleaning and hyperparameter tuning using machine learning algorithms in Python that resulted in an accuracy of 78%.
 * Increased the prediction accuracy of investing in one company by ~5% by identifying the most important variables that increased the client's confidence in carrying out deals/investments.
 * Tools and Libraries- Python, R, Microsoft SQL Server, Logistic Regression, Random Forest, XGBoost, dplyr, scipy.io, keras, numpy, matplotlib, sklearn.
+</details>
 
-#### 🏢 Graduate Assistant | University of Maryland | May 2019 – Dec 2019
+<details>
+<summary><strong>🏢 Graduate Assistant | University of Maryland | May 2019 – Dec 2019</strong></summary>
+
 * Assessed, created and maintained student records (~4000 students) to identify low performing students and scheduled sessions to improve academic standing and disciplinary records.
 * Performed data extraction using SQL to assist the academic advisors to implement various programs to improve a student's performance.
 * Led a team of 10 undergraduate students to answer student inquiries that improved the satisfaction rate by 10%.
 * Designed visualizations to understand and analyzed the career opportunities chosen by the students and helped advisors to improve the academic program based on the visualizations.
 * Tools- SQL, SIS(Student Information System), Excel.
+</details>
 
-#### 🏢 Data Analyst | Bridge Solutions | May 2017 – May 2018
+<details>
+<summary><strong>🏢 Data Analyst | Bridge Solutions | May 2017 – May 2018</strong></summary>
+
 * Created visually impactful and interactive dashboards in Tableau and Excel to report various key KPIs of various clients of Bridge Solutions.
 * Handled and built relational databases, designed queries using Microsoft SQL Server, and created reports for analyzing and root-causing board failure data. Well-versed in finding patterns and trends in complex, multivariable data sets using Python in an agile environment.
 * Created inventory targets by employing analytical abilities, data mining skills, and experience that resulted in a cost reduction of $1M.
 * Introduced and developed Docker application to deploy IBM OMS 9.5 and WMS 9.5 which is used by 75% of the workforce.
+</details>
 
 ---
 
@@ -254,9 +289,9 @@ _Technologies: RStudio, Machine Learning, SQL, Predictive Analysis, Visualizatio
 ---
 
 ### 📬 Connect With Me
-- 📧 Email: [sai.ajaysai@gmail.com](mailto:sai.ajaysai@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/ajay-sai](https://www.linkedin.com/in/ajay-sai/)
-- 📱 Phone: (240) 360-7905
+- 📧 **Email:** [Send me an Email](mailto:sai.ajaysai@gmail.com)
+- 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ajay-sai/)
+- 📱 **Phone:** (240) 360-7905
 
 ---
 
