@@ -17,38 +17,63 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 
 ### 🔧 Tech Stack
 
-#### Languages & Libraries
+#### AI/ML & GenAI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-409EFF?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+#### Languages & Core Libraries
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spacy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### MLOps & Development
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### Cloud & Big Data
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FDEE21?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### AI Agents & Tools
+![AutoGen](https://img.shields.io/badge/AutoGen-FF6F61?style=for-the-badge&logo=microsoft&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2B2B2B?style=for-the-badge&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7B68EE?style=for-the-badge&logo=python&logoColor=white)
+![Agent SDK](https://img.shields.io/badge/Agent_SDK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=python&logoColor=white)
+![AG2](https://img.shields.io/badge/AG2-FF4F8B?style=for-the-badge&logo=python&logoColor=white)
 
 #### Analytics & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![SAP Analytics Cloud](https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 #### ETL & Other Tools
 ![Analytics Workbench](https://img.shields.io/badge/Analytics_Workbench-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -58,6 +83,35 @@ Lead AI Data Scientist with 8+ years of experience designing and deploying robus
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+#### Google Cloud Certifications
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+- [Professional Cloud Database Engineer](https://www.credly.com/badges/18f8026b-1a09-40f7-b85d-9a12babf6821/public_url) 
+- [Professional Data Engineer](https://www.credly.com/badges/a607b05c-e072-479e-987e-06d3fe1420b4/linked_in_profile)
+- [Generative AI Leader](https://www.credly.com/badges/53d8c480-838f-4965-b54b-84fa5e6ab086/linked_in_profile)
+- [Associate Data Practitioner](https://www.credly.com/badges/d8d681f9-aaa5-408b-89e5-8130cbd3afac/linked_in_profile)
+
+#### AI & ML Specializations
+![DeepLearning](https://img.shields.io/badge/DeepLearning.AI-4B4B4B?style=for-the-badge&logo=deeplearning-ai&logoColor=white)
+- [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/8047cd5c-e51c-44bc-bd08-be3ee35b83d0?usp=sharing)
+- [AI Agentic Design Patterns with AutoGen](https://learn.deeplearning.ai/accomplishments/37be9c85-fce0-4f3c-8c2a-ec6e93dba837)
+- [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/accomplishments/ede2fb1b-3e88-4ca2-9403-cec2be61468b)
+- [Practical Multi AI Agents and Advanced Use Cases](https://learn.deeplearning.ai/accomplishments/72c1d364-7a7a-4802-9506-f5c4bb350562)
+- [Build a Chat Application using PaLM 2 API](https://www.coursera.org/account/accomplishments/verify/W4PPZVDKQ04N)
+
+#### Additional Certifications
+![Certifications](https://img.shields.io/badge/Certifications-FF0000?style=for-the-badge&logo=acclaim&logoColor=white)
+- Google Ads Professional
+- Certified Data Scientist (Data Camp)
+- Certified Data Analyst in Python (Edureka)
+
+#### 🏆 Profile Badges
+[![Credly Profile](https://img.shields.io/badge/Credly_Profile-orange?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/ajay-miryala.e0f4cc9b)
+[![Google Cloud Profile](https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/profile/badges)
 
 ---
 
@@ -141,35 +195,6 @@ _Coursework: Big Data and Artificial Intelligence, Data Analysis with Python, Da
 #### 🏫 SRM University, Kattankulathur
 **Bachelor of Technology in Computer Science**
 _Coursework: Web Technology, Software Engineering, Pervasive computing, Operating Systems, Network Security, Microprocessor and Interfacing, Linux Internals, Database Management Systems, Data Structures and Algorithm Design, Data Mining, Artificial Intelligence and Expert Systems_
-
----
-
-### 📜 Certifications
-
-#### Google Cloud Certifications
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-- [Professional Cloud Database Engineer](https://www.credly.com/badges/18f8026b-1a09-40f7-b85d-9a12babf6821/public_url) 
-- [Professional Data Engineer](https://www.credly.com/badges/a607b05c-e072-479e-987e-06d3fe1420b4/linked_in_profile)
-- [Generative AI Leader](https://www.credly.com/badges/53d8c480-838f-4965-b54b-84fa5e6ab086/linked_in_profile)
-- [Associate Data Practitioner](https://www.credly.com/badges/d8d681f9-aaa5-408b-89e5-8130cbd3afac/linked_in_profile)
-
-#### AI & ML Specializations
-![DeepLearning](https://img.shields.io/badge/DeepLearning.AI-4B4B4B?style=for-the-badge&logo=deeplearning-ai&logoColor=white)
-- [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/8047cd5c-e51c-44bc-bd08-be3ee35b83d0?usp=sharing)
-- [AI Agentic Design Patterns with AutoGen](https://learn.deeplearning.ai/accomplishments/37be9c85-fce0-4f3c-8c2a-ec6e93dba837)
-- [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/accomplishments/ede2fb1b-3e88-4ca2-9403-cec2be61468b)
-- [Practical Multi AI Agents and Advanced Use Cases](https://learn.deeplearning.ai/accomplishments/72c1d364-7a7a-4802-9506-f5c4bb350562)
-- [Build a Chat Application using PaLM 2 API](https://www.coursera.org/account/accomplishments/verify/W4PPZVDKQ04N)
-
-#### Additional Certifications
-![Certifications](https://img.shields.io/badge/Certifications-FF0000?style=for-the-badge&logo=acclaim&logoColor=white)
-- Google Ads Professional
-- Certified Data Scientist (Data Camp)
-- Certified Data Analyst in Python (Edureka)
-
-#### 🏆 Profile Badges
-[![Credly Profile](https://img.shields.io/badge/Credly_Profile-orange?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/ajay-miryala.e0f4cc9b)
-[![Google Cloud Profile](https://img.shields.io/badge/Google_Cloud_Skills-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/profile/badges)
 
 ---
 
