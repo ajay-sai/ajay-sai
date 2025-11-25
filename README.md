@@ -6,19 +6,19 @@
   <a href="mailto:sai.ajaysai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </div>
 
-## <div align="center">Lead AI Data Scientist | Gen AI / ML Engineer | Decision Analyst</div>
+## <div align="center">Data Science | AI / ML | Decision Analysis</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Lead AI Data Scientist with over 8 years of experience, specializing in building the full-stack, production-grade infrastructure that powers modern AI. My focus is on creating resilient, efficient, and scalable data ecosystems, from architecting ETL pipelines on GCP to operationalizing the entire lifecycle of Generative AI models, including RAG and multi-agent systems.
+Lead Data Scientist & AI/ML Engineer with 9+ years in analytics and ML, including 3+ years building production GenAI systems at Fortune 50 scale. Expertise in LLM fine-tuning, RAG pipelines, multi-agent orchestration, and MLOps and 5x Google Cloud Certified. Delivered $20M+ business impact | Shipped chatbots serving 200+ daily users | Reduced LLM costs by $15k/month | Optimized $50M+ media spend (18% ROI) | Mentored 8 engineers (3 promoted).
 
 ---
 
 ### 🚀 Career Highlights
 
-- 🧠 Architected and deployed multi-LLM orchestration (Gemini 1.5 Pro/Flash, Llama) and Neo4j Knowledge-Graph RAG assistants for over 200 analysts.
+- 🧠 Architected and deployed multi-LLM orchestration (Gemini 2.5 Pro/Flash/Lite, Llama) and Neo4j Knowledge-Graph RAG assistants for over 200 analysts.
 - 📈 Delivered multimodal AI prototypes (text + vision) and LLM-powered executive reporting, cutting manual reporting efforts by 60%.
 - 🛠️ Led the fine-tuning of LLMs using LoRA, QLoRA, and PEFT, and established robust MLOps pipelines with Vertex AI and MLflow.
 - 🏗️ Engineered a 40% increase in data processing efficiency by optimizing ETL workflows and integrating over 50TB of data from 15+ disparate sources.
