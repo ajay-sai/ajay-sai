@@ -322,8 +322,8 @@ _Technologies: RStudio, Machine Learning, SQL, Predictive Analysis, Visualizatio
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
-2. ❌ Closed PR [#1](undefined) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
+1. ❌ Merged PR [#3](undefined) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
+2. 💪 Opened PR [#3](undefined) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Graph
