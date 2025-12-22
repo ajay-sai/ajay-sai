@@ -322,8 +322,8 @@ _Technologies: RStudio, Machine Learning, SQL, Predictive Analysis, Visualizatio
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/ajay-sai/Ajay-Website/issues/4) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
-2. ❗ Opened issue [#4](https://github.com/ajay-sai/Ajay-Website/issues/4) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
+1.  Labeled issue [#1](https://github.com/ajay-sai/VSML_Fine_Tuning/issues/1) in [ajay-sai/VSML_Fine_Tuning](https://github.com/ajay-sai/VSML_Fine_Tuning)
+2. ❗ Opened issue [#1](https://github.com/ajay-sai/VSML_Fine_Tuning/issues/1) in [ajay-sai/VSML_Fine_Tuning](https://github.com/ajay-sai/VSML_Fine_Tuning)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Graph
