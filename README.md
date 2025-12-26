@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Lead Data Scientist & AI/ML Engineer with 9+ years in analytics and ML, including 3+ years building production GenAI systems at Fortune 50 scale. Expertise in LLM fine-tuning, RAG pipelines, multi-agent orchestration, and MLOps and 5x Google Cloud Certified. Delivered $20M+ business impact | Shipped chatbots serving 200+ daily users | Reduced LLM costs by $15k/month | Optimized $50M+ media spend (18% ROI) | Mentored 8 engineers (3 promoted).
+Data Scientist & AI/ML Engineer with 9+ years in analytics and ML, including 3+ years building production GenAI systems at Fortune 50 scale. Expertise in LLM fine-tuning, RAG pipelines, multi-agent orchestration, and MLOps and 5x Google Cloud Certified. Delivered $20M+ business impact | Shipped chatbots serving 200+ daily users | Reduced LLM costs by $15k/month | Optimized $50M+ media spend (18% ROI) | Mentored 8 engineers (3 promoted).
 
 ---
 
