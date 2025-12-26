@@ -234,57 +234,103 @@ Data Scientist & AI/ML Engineer with 9+ years in analytics and ML, including 3+ 
 
 ### 🎓 Education
 
-#### 🏫 University of Maryland, College Park, Robert H Smith School of Business
-**Master of Science in Business Analytics (MSBA)**
-_Coursework: Big Data and Artificial Intelligence, Data Analysis with Python, Data Mining and Predictive Analytics, Data Models and Decision Making, Database Management System, Operation Analytics, Decision Analytics, Price Optimization and Revenue Management, Google Analytics_
+<details>
+<summary><strong>🏫 University of Maryland, College Park, Robert H Smith School of Business</strong></summary>
 
-#### 🏫 SRM University, Kattankulathur
+**Master of Science in Business Analytics (MSBA)**
+
+_Coursework: Big Data and Artificial Intelligence, Data Analysis with Python, Data Mining and Predictive Analytics, Data Models and Decision Making, Database Management System, Operation Analytics, Decision Analytics, Price Optimization and Revenue Management, Google Analytics_
+</details>
+
+<details>
+<summary><strong>🏫 SRM University, Kattankulathur</strong></summary>
+
 **Bachelor of Technology in Computer Science**
+
 _Coursework: Web Technology, Software Engineering, Pervasive computing, Operating Systems, Network Security, Microprocessor and Interfacing, Linux Internals, Database Management Systems, Data Structures and Algorithm Design, Data Mining, Artificial Intelligence and Expert Systems_
+</details>
 
 ---
 
 ### 🎯 Academic Projects
 
-#### 📊 Relational Database Modeling
-_Technologies: Tableau Visualizations, Dashboards, MS SQL Server, Excel, Wix_
+<details>
+<summary><strong>📊 <a href="https://github.com/ajay-sai/RAG">RAG - Advanced Retrieval-Augmented Generation</a></strong></summary>
+
+**Technologies:** Python, Pydantic AI, PostgreSQL/pgvector, Docling, OpenAI (GPT-4o)
+
+Advanced Retrieval-Augmented Generation strategies combining cutting-edge AI technologies for intelligent document processing and retrieval. This project demonstrates enterprise-grade RAG implementation using Pydantic AI for structured outputs, PostgreSQL with pgvector for efficient semantic search, Docling for document parsing, and OpenAI's GPT-4o for natural language generation.
+</details>
+
+<details>
+<summary><strong>🔍 <a href="https://github.com/ajay-sai/VSML_Fine_Tuning">VSML Fine Tuning - LLM Fine-tuning Framework</a></strong></summary>
+
+**Technologies:** Python, Jupyter, YAML, LoRA, QLoRA, Unsloth, DPO
+
+Comprehensive LLM fine-tuning framework featuring LoRA and QLoRA techniques, Unsloth optimization, Direct Preference Optimization (DPO), reproducible configurations, mobile deployment capabilities, and educational workflows. This project provides end-to-end solutions for fine-tuning large language models with efficient parameter-efficient methods.
+</details>
+
+<details>
+<summary><strong>📊 Relational Database Modeling</strong></summary>
+
+**Technologies:** Tableau Visualizations, Dashboards, MS SQL Server, Excel, Wix
+
 * Built a relational database by scrapping online data of apartments near College Park, MD.
 * Performed data cleaning, ETL operations, populated and normalized the database to 3NF using SQL queries.
 * Developed interactive dashboards using Tableau to help users compare the price, location, amenities for various houses and published the same to a website developed using Wix.
 * Gained 2000 users in a span of 1 month and converted 250 users to active leads for the apartments.
+</details>
 
-#### 🔍 Recommender System
-_Technologies: Machine Learning, Text Mining, Predictive Analysis, NLP, Python_
+<details>
+<summary><strong>🔍 Recommender System</strong></summary>
+
+**Technologies:** Machine Learning, Text Mining, Predictive Analysis, NLP, Python
+
 * Implemented a model using Amazon reviews data (10 GB) to predict two most similar products based on item-item collaborative filtering using Python.
 * Cleaned, trained, cross-validated, performed NLP operations like tokenization, lemmatization, stop word removal on the dataset and used KNN model to achieve highest accuracy of 84.4%.
 * Built visualizations to analyze the reviews and built word clusters to discover the most used words for each review level using matplotlib and seaborn.
+</details>
 
-#### 👤 Age and Gender Prediction
-_Technologies: Machine Learning, Python, Predictive Analysis, Neural Networks, Transfer Learning_
+<details>
+<summary><strong>👤 Age and Gender Prediction</strong></summary>
+
+**Technologies:** Machine Learning, Python, Predictive Analysis, Neural Networks, Transfer Learning
+
 * Built a machine learning (CNN) model to predict the age and gender of a person via their photos using python.
 * Acquired 7 GB of data from IMDB-WIKI to perform data cleaning, data aggregation and data manipulation.
 * Implemented transfer learning from VGG-face model, tuned the model to prevent overfitting and implemented the model on real time video stream.
 * Achieved a mean absolute error rate ±4 years in predicting the age and an accuracy of 97% in predicting the gender.
+</details>
 
-#### 🏥 Healthcare Predictive Data Analysis
-_Technologies: RStudio, Machine Learning, SQL, Predictive Analysis, Visualization, R_
+<details>
+<summary><strong>🏥 Healthcare Predictive Data Analysis</strong></summary>
+
+**Technologies:** RStudio, Machine Learning, SQL, Predictive Analysis, Visualization, R
+
 * Analyzed a 60K+ dataset to predict patient revisit rate for emergency care hospital patients and discovered the correlation with other features.
 * Performed exploratory data analysis, multiple imputation and feature engineering using R.
 * Implemented and evaluated models like Logistic, KNN, Ensemble models, Decision Trees, XGboost.
 * Secured 2nd position by achieving ~83% accuracy, thereby reducing the patient readmission rate by 4%.
+</details>
 
 ---
 
 ### 👨‍💼 Leadership Experience
 
-#### 🏛️ Executive Vice President | Robert H. Smith School of Business / SMSA | Dec 2018 – Dec 2019
+<details>
+<summary><strong>🏛️ Executive Vice President | Robert H. Smith School of Business / SMSA | Dec 2018 – Dec 2019</strong></summary>
+
 * Planned and evaluated leadership growth programs, utilizing a fund of $80,000 per semester.
 * Coordinated logistics for numerous events with club presidents under the Smith Master Student Association (SMSA).
 * Launched an alumni networking platform to foster relationships and mentorship for incoming and existing students.
+</details>
 
-#### 🏛️ Track Representative | Robert H. Smith School of Business / MSBA | Aug 2018 – Dec 2019
+<details>
+<summary><strong>🏛️ Track Representative | Robert H. Smith School of Business / MSBA | Aug 2018 – Dec 2019</strong></summary>
+
 * Collaborated with the program manager and director to improve the MSBA program.
 * Resolved cohort grievances, achieving a 30% reduction in grievances from previous batches.
+</details>
 
 ---
 
@@ -305,15 +351,15 @@ _Technologies: RStudio, Machine Learning, SQL, Predictive Analysis, Visualizatio
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-sai&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ajay-sai&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-sai&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-sai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay-sai&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay-sai&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
