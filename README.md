@@ -275,7 +275,7 @@ Comprehensive LLM fine-tuning framework featuring LoRA and QLoRA techniques, Uns
 
 **Technologies:** Tableau Visualizations, Dashboards, MS SQL Server, Excel, Wix
 
-* Built a relational database by scrapping online data of apartments near College Park, MD.
+* Built a relational database by scraping online data of apartments near College Park, MD.
 * Performed data cleaning, ETL operations, populated and normalized the database to 3NF using SQL queries.
 * Developed interactive dashboards using Tableau to help users compare the price, location, amenities for various houses and published the same to a website developed using Wix.
 * Gained 2000 users in a span of 1 month and converted 250 users to active leads for the apartments.
