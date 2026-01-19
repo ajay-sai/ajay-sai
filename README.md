@@ -368,8 +368,8 @@ Comprehensive LLM fine-tuning framework featuring LoRA and QLoRA techniques, Uns
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#7](https://github.com/ajay-sai/Ajay-Website/issues/7) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
-2. ℹ️ Labeled issue [#7](https://github.com/ajay-sai/Ajay-Website/issues/7) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
+1. 🔒 Closed issue [#7](https://github.com/ajay-sai/Ajay-Website/issues/7) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
+2. ℹ️ Assigned issue [#7](https://github.com/ajay-sai/Ajay-Website/issues/7) in [ajay-sai/Ajay-Website](https://github.com/ajay-sai/Ajay-Website)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Graph
