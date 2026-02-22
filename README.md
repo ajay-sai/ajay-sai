@@ -110,6 +110,11 @@ Data Scientist & AI/ML Engineer with 9+ years in analytics and ML, including 3+ 
 - [Generative AI Leader](https://www.credly.com/badges/53d8c480-838f-4965-b54b-84fa5e6ab086/linked_in_profile)
 - [Associate Data Practitioner](https://www.credly.com/badges/d8d681f9-aaa5-408b-89e5-8130cbd3afac/linked_in_profile)
 
+#### AWS Certifications
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- [Generative AI Developer (Professional)](https://www.credly.com/badges/36ec50a7-3ec2-4e98-98e2-219fceb84aa0/public_url)
+- [AI Practitioner](https://www.credly.com/badges/c5b108e6-4953-4650-8304-c169c9f777b2/public_url)
+
 #### Additional Certifications
 ![Certifications](https://img.shields.io/badge/Certifications-FF0000?style=for-the-badge&logo=acclaim&logoColor=white)
 - Google Ads Professional

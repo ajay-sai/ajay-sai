@@ -28,7 +28,7 @@ Technologies: GCP (Big Query, Vertex AI, Dataflow, Cloud Storage), BI Tools (Tab
 Analytics, Adobe Analytics), ETL Tools (Analytics Workbench, Alteryx), AWS (Redshift, S3), Other tools (GitHub, Advanced Excel (VBA), Microsoft SQL
 Server, Shell scripting, Hadoop, SAP)
 Certifications: Google Professional Data Engineer (Google), Google Ads Professional (Google), Certified Data Scientist (Data Camp), Certified Data
-Analyst in Python (Edureka)
+Analyst in Python (Edureka), AWS Generative AI Developer - Professional (AWS), AWS AI Practitioner (AWS)
 PROFESSIONAL EXPERIENCE
 Gen AI / ML Engineer, The Home Depot Management Company Jan 2025 – Present
  Designed and developed scalable generative AI systems using transformer-based architectures (GPT-4, BERT, Gemini, Longformer)
