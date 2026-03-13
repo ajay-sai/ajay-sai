@@ -373,8 +373,8 @@ Comprehensive LLM fine-tuning framework featuring LoRA and QLoRA techniques, Uns
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#6](https://github.com/ajay-sai/Pixel-agents/issues/6) in [ajay-sai/Pixel-agents](https://github.com/ajay-sai/Pixel-agents)
-2. ❗ Opened issue [#6](https://github.com/ajay-sai/Pixel-agents/issues/6) in [ajay-sai/Pixel-agents](https://github.com/ajay-sai/Pixel-agents)
+1. 🔒 Closed issue [#6](https://github.com/ajay-sai/Pixel-agents/issues/6) in [ajay-sai/Pixel-agents](https://github.com/ajay-sai/Pixel-agents)
+2. ℹ️ Assigned issue [#6](https://github.com/ajay-sai/Pixel-agents/issues/6) in [ajay-sai/Pixel-agents](https://github.com/ajay-sai/Pixel-agents)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Graph
